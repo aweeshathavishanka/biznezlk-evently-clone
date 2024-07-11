@@ -15,7 +15,6 @@ export type UpdateUserParams = {
   photo: string;
 };
 
-// ====== EVENT PARAMS
 export type CreateEventParams = {
   userId: string;
   event: {
